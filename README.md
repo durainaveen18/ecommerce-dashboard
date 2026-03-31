@@ -38,4 +38,4 @@ This project analyzes e-commerce sales data and builds an interactive Power BI d
 
 ## 📌 Author
 
-Yash Chauhan
+Naveen D
